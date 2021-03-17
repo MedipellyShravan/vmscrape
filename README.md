@@ -1,2 +1,2 @@
 # vmscrape
-display vm data on webpage
+display vm's data on webpage
